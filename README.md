@@ -1,4 +1,21 @@
 ### Hi there 👋
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every sunday midnight
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+       ### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!--
