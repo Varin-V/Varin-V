@@ -12,11 +12,10 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-Hi, I'm [Varin saipanya](https://abhishknads.me/)Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.
+Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -29,13 +28,9 @@ Hi, I'm [Varin saipanya](https://abhishknads.me/)Now I'm still a student going t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -46,20 +41,18 @@ Hi, I'm [Varin saipanya](https://abhishknads.me/)Now I'm still a student going t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-📈 my github stats
+📈 Status
 
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
+  <i>contact me at...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
-   [![Medium Badge](https://img.shields.io/badge/-@anushka_verma-000000?style=flat&labelColor=000000&logo=Medium&link=https://anushka-verma.medium.com/)](https://anushka-verma.medium.com/) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
+   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com) 
+   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://www.instagram.com/varin.js/) 
+   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://web.facebook.com/varin.saypanya.33)
+   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org)
 
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com)  -->
    
   <p align="center">
     V
@@ -74,7 +67,7 @@ Hi, I'm [Varin saipanya](https://abhishknads.me/)Now I'm still a student going t
 
 <!-- [![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) -->
 
-# Tech Stack
+# Path to Full Stack
 
 ### Front End
 
