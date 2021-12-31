@@ -57,12 +57,7 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 <a href="https://g.dev/anirudhbelwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/googledev.png"></a>
 
    
-
-
-<div align="right">
-  
-![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
-</div>
+<br>
 
 # Path to Full Stack
 
