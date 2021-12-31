@@ -45,14 +45,17 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 
 <p align="center">
   <i>contact me at...</i>
-  
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/V/)](https://www.linkedin.com) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:V@gmail.com)](mailto:v@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/varin.js/)](https://www.instagram.com/varin.js/) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://web.facebook.com/varin.saypanya.33)
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org)
+  <a href="https://www.linkedin.com/in/anirudh-srinath-belwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://anirudhbelwadi.com/assets/docs/Anirudh%20Srinath%20Belwadi%20-%20Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
+<a href="mailto:anirudh.belwadi@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/anirudh.fullstack/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/AnirudhBelwadi/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/youtube.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/chakravyuh/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/music.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/anirudh.belwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/BelwadiAnirudh"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/believed_it_after_clicking_it/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/camera.png"></a>&nbsp;&nbsp;
+<a href="https://g.dev/anirudhbelwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/googledev.png"></a>
 
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com)  -->
    
   <p align="center">
     V
@@ -61,8 +64,7 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
-
+![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
 </div>
 
 # Path to Full Stack
