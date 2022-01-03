@@ -18,7 +18,7 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 - 🏆 The best reward for ourselves is winning our own mind.    
 - ⏳  Experience is the most expensive cost. to pay with time.
 
-**languages and tools:**  
+# Languages and tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -33,7 +33,9 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<br />
 
+---
 
                                                           
 # Softwares
@@ -44,7 +46,6 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>   
                                                           
-<br />
 <br />
 
 ---
