@@ -44,9 +44,8 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 <a href="https://www.instagram.com/varin.js/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/varin.saypanya.33"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SaipanyaVarin"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://discord.gg/Vz3hPGm6yF">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+<a href="https://discord.gg/Vz3hPGm6yF"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>&nbsp;&nbsp;
 
 
    
