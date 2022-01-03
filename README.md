@@ -4,17 +4,15 @@
 </a>
 <a href="https://twitter.com/SaipanyaVarin">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a><br><br>
-<a href="https://www.linkedin.com">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://open.spotify.com>
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
 <br />
 
 Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.
 
-  <img align="right" alt="gif" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 At present, there is no job, just studying.
 - 🏆 The best reward for ourselves is winning our own mind.    
