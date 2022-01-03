@@ -24,7 +24,7 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V) Now I'm still a student goi
                                                           
 # Softwares used
 
-<img align="left"width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left"width="26px"   alt="visual-studio-code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Icon_Atom.svg"/>
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg"/>
@@ -40,7 +40,7 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V) Now I'm still a student goi
 <p align="center">
   <i>contact me at...</i><br><br>
 <a href="https://codelab-74be6.web.app/"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png"></a>&nbsp;&nbsp;
-<a href="mailto:warinsaypanya471@gmail.com"><img height="30" src="https://pics.freeicons.io/uploads/icons/png/7969340901574338609-512.png"></a>&nbsp;&nbsp;
+<a href="mailto:warinsaypanya471@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/varin.js/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/varin.saypanya.33"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SaipanyaVarin"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
