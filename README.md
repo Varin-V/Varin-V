@@ -1,7 +1,7 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.
+Hi, I'm [Varin saipanya](https://github.com/Varin-V) Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.
 
   
 - 💼 At present, there is no job, just studying.
@@ -25,9 +25,11 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 # Softwares
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg"/> </a> 
+<a href="#" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Icon_Atom.svg"/> </a> 
+<a href="#" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg"/> </a> 
+<a href="#" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="#" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="#" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg"/> </a> 
 
 
  
