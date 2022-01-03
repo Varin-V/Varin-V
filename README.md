@@ -22,15 +22,14 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V) Now I'm still a student goi
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
                                                           
-# Softwares
+# Softwares used
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="#" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Icon_Atom.svg"/> </a> 
-<a href="#" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg"/> </a> 
-<a href="#" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="#" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="#" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg"/> </a> 
-
+<img align="left"width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Icon_Atom.svg"/>
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg"/>
+<img align="left" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/>
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg"/>
 
  
                                                           
