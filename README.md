@@ -24,7 +24,7 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V) Now I'm still a student goi
                                                           
 # Softwares used
 
-<img align="left"width="26px"   alt="visual-studio-code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left"width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Icon_Atom.svg"/>
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg"/>
