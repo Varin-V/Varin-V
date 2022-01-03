@@ -42,17 +42,26 @@ Hi, I'm [Varin saipanya](https://github.com/Varin-V)Now I'm still a student goin
 
 
 📈 Status
+                                                          
+                                                          
+      ### Softwares:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>    
+                                                          
+                                                          <br>
 
 <p align="center">
   <i>contact me at...</i><br><br>
 <a href="https://codelab-74be6.web.app/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:warinsaypanya471@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/varin.js/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/music.png"></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/varin.saypanya.33"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SaipanyaVarin"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/camera.png"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/googledev.png"></a>
+
 
    
 <br>
