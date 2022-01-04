@@ -4,9 +4,9 @@
 <i>Hi, I'm [Varin Saipanya](https://github.com/Varin-V) Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.</i>
 
 
-<i>- 💼 At present, there is no job, just studying.</i>
-<i>- 🏆 The best reward for ourselves is winning our own mind.</i
-<i>- ⏳ Experience is the most expensive cost. to pay with time.</i>
+<i>- 💼 At present, there is no job, just studying.
+- 🏆 The best reward for ourselves is winning our own mind.
+- ⏳ Experience is the most expensive cost. to pay with time.</i>
 
 
 # Languages and tools
