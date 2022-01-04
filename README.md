@@ -4,25 +4,26 @@
 <i>Hi, I'm [Varin Saipanya](https://github.com/Varin-V) Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.</i>
 
 
-<i>- 💼 At present, there is no job, just studying.
-- 🏆 The best reward for ourselves is winning our own mind.
-- ⏳ Experience is the most expensive cost. to pay with time.</i>
-
+<i>- 💼 At present, there is no job, just studying.</i><br>
+<i>- 🏆 The best reward for ourselves is winning our own mind.</i><br>
+<i>- ⏳ Experience is the most expensive cost. to pay with time.</i>
 
 # Languages and tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="http://pngimg.com/uploads/php/php_PNG48.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
                                                           
 # Softwares used
+
 
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
@@ -30,6 +31,7 @@
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg"/>
 <img align="left" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/>
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Adobe_Dreamweaver_CC_icon.svg"/>
+<img align="left" width="26px" src="https://www.ntuity.com/wp-content/uploads/2018/05/office-365-Online-icon.png"/>
 
  
                                                           
@@ -45,7 +47,9 @@
 <a href="https://web.facebook.com/varin.saypanya.33"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 <a href="lineto:varin471"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SaipanyaVarin"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://steamcommunity.com/profiles/76561199226836097/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>&nbsp;&nbsp;
 <a href="https://discord.gg/Vz3hPGm6yF"><img height="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /></a>&nbsp;&nbsp;
+
 
 
 
