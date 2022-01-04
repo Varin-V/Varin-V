@@ -45,7 +45,7 @@
 <a href="mailto:warinsaypanya471@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/varin.js/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/varin.saypanya.33"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
-<a href="lineto:varin471"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg"></a>&nbsp;&nbsp;
+<a href="https://add-friends-7eead.web.app"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SaipanyaVarin"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/profiles/76561199226836097/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>&nbsp;&nbsp;
 <a href="https://discord.gg/Vz3hPGm6yF"><img height="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /></a>&nbsp;&nbsp;
