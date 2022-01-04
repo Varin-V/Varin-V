@@ -1,12 +1,14 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-Hi, I'm [Varin Saipanya](https://github.com/Varin-V) Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.
+<i>Hi, I'm [Varin Saipanya](https://github.com/Varin-V) Now I'm still a student going to university. I am interested in and love computers and technology these days. I became interested in coding from the third year of high school and started working seriously in the fifth year of high school. It made a huge difference in my life.</i>
 
-  
+
+<i>
 - 💼 At present, there is no job, just studying.
 - 🏆 The best reward for ourselves is winning our own mind.    
 - ⏳ Experience is the most expensive cost. to pay with time.
+</i>
 
 # Languages and tools
 
@@ -37,7 +39,7 @@ Hi, I'm [Varin Saipanya](https://github.com/Varin-V) Now I'm still a student goi
 ---
                                                           
 <p align="center">
-  <i>contact me at...</i><br><br>
+  <i>contact me </i><br><br>
 <a href="https://codelab-74be6.web.app/"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png"></a>&nbsp;&nbsp;
 <a href="mailto:warinsaypanya471@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/varin.js/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
