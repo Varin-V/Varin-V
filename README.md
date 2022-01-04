@@ -5,10 +5,8 @@
 
 
 <div>
-<i>- 💼 At present, there is no job, just studying.</i>   
-<i>- ⏳ Experience is the most expensive cost. to pay with time.</i>
-<i>- 🏆 The best reward for ourselves is winning our own mind.</i>
-</div>
+<i>- 💼 At present, there is no job, just studying.</i><i>- ⏳ Experience is the most expensive cost. to pay with time.</i><i>- 🏆 The best reward for ourselves is winning our own mind.</i></div>
+
 
 # Languages and tools
 
